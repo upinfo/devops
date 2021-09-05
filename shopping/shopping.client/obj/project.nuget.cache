@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9fza5R/7lVHFt+o9VABSWn/P5QIpCSfFWYVchm2B8EDOBi6+AyKeg7FoEhktQyowUCyn8bfTsQ8ssrvkJMk6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\morlu-devops\\shopping\\shopping.client\\shopping.client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
